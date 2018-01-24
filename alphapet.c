@@ -1,0 +1,13 @@
+ main()
+-{
+-    char c;
+-    printf("Enter a character: ");
+-    scanf("%c",&c);
+-
+-    
+-        printf("%c is an alphabet.",c);
+-   
+-        
+-
+-    return 0;
+-}
